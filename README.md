@@ -4,7 +4,7 @@
 **Cerință**:
 
 Intr-un magazin exista un raion care comercializeaza jocuri pe calculator. Jocurile sunt
-pastrate intr-un fisier sub forma: producator titlu_joc categorie pret stoc
+pastrate intr-un fisier sub forma: producator titlu_joc categorie pret stoc.
 Sa se scrie un program care efectueaza urmatoarele operatii:
 1. Incarca datele din fisierul cu jocuri intr-o structura de lista cu subliste.
 2. Afiseaza lista de producatori in ordine alfabetica.
