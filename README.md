@@ -1,7 +1,7 @@
 # SDA-Proiect
-Proiect - Structuri de Date și Algoritmi. Implementare utilizând liste și subliste înlănțuite.
+**Proiect - Structuri de Date și Algoritmi**. Implementare utilizând liste și subliste înlănțuite.
 
-Cerință:
+**Cerință**:
 
 Intr-un magazin exista un raion care comercializeaza jocuri pe calculator. Jocurile sunt
 pastrate intr-un fisier sub forma: producator titlu_joc categorie pret stoc
